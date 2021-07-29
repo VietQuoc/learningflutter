@@ -31,10 +31,7 @@ class _MyAppState extends State<MyApp> with WidgetsBindingObserver {
 
   @override
   void didChangeAppLifecycleState(AppLifecycleState state) {
-    print('change');
-    if (state == AppLifecycleState.paused) {
-      print('pause');
-    }
+    print(state);
     super.didChangeAppLifecycleState(state);
   }
 
