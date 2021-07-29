@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "af9e051dbfd3e7af95e89e1a5819384d"
+build_time: [1627542233, 711418000]
+inputs:
+  "/Users/quocnguyen/Documents/ProjectBase/learningflutter/ios/Runner/AppDelegate.swift": [1623437044, 0]
